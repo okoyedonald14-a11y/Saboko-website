@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Saboko Nigeria Limited - Quality Plywood Supplier</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- HEADER -->
+    <header>
+        <h1>Saboko Nigeria Limited</h1>
+        <p>Your trusted supplier of all kinds of plywood in Nigeria</p>
+        <div class="contact-header">
+            📞 0911 893 0496 | 0705 614 1119
+        </div>
+    </header>
+
+    <!-- HERO SECTION -->
+    <section class="hero">
+        <h2>We Sell All Types of Quality Plywood</h2>
+        <p>Wholesale & retail. Fast delivery nationwide.</p>
+        <a href="tel:09118930496" class="order-btn">Call to Order</a>
+    </section>
+
+    <!-- PRODUCTS -->
+    <section class="products">
+        <h2>Our Plywood Products</h2>
+
+        <div class="product-grid">
+            <div class="product-card">
+                <h3>Marine Plywood</h3>
+                <p>High-quality waterproof plywood for heavy-duty projects.</p>
+            </div>
+
+            <div class="product-card">
+                <h3>Commercial Plywood</h3>
+                <p>Perfect for furniture, cabinets, and interior work.</p>
+            </div>
+
+            <div class="product-card">
+                <h3>Hardwood Plywood</h3>
+                <p>Strong and durable for structural use.</p>
+            </div>
+
+            <div class="product-card">
+                <h3>MDF Boards</h3>
+                <p>Smooth and ideal for detailed carpentry work.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- CONTACT -->
+    <section class="contact">
+        <h2>Contact Us</h2>
+        <p>Place Orders | Inquiries | Bulk Purchase</p>
+        
+        <div class="phone-list">
+            <p>📞 <strong>0911 893 0496</strong></p>
+            <p>📞 <strong>0705 614 1119</strong></p>
+        </div>
+
+        <a href="tel:09118930496" class="contact-btn">Call Now</a>
+    </section>
+
+    <!-- FOOTER -->
+    <footer>
+        <p>© 2025 Saboko Nigeria Limited. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
